@@ -1,0 +1,1 @@
+Write-Host "Greetings from PowerShell!"
