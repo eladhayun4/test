@@ -1,1 +1,0 @@
-Get-PSDrive -Name C | Select-Object Name, Used, Free
